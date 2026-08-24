@@ -1,63 +1,49 @@
-# 👋 Hey, I'm Victor
-
 <div align="center">
 
-### Full Stack Developer • Builder • Tech Enthusiast
+# 🐾 CODEBEARDEV
 
-![Profile Views](https://komarev.com/ghpvc/?username=codebeardev&color=blueviolet&style=flat-square)
+### `full-stack developer` · `anime enjoyer` · `digital creator`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Building+things+with+code+%E2%9C%A8;Full+Stack+Developer+%F0%9F%90%BE;Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%99" />
 
 </div>
 
 ---
 
-## 📊 GitHub Dashboard
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codebeardev&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D0B14&title_color=C084FC&icon_color=A970FF&text_color=D8D3E8&hide=issues" height="155"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebeardev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D0B14&title_color=C084FC&text_color=D8D3E8" height="155"/>
+
+</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebeardev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+### 🌙 `currently building things...`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebeardev&layout=compact&theme=tokyonight&hide_border=true"/>
+`HTML` · `CSS` · `JavaScript` · `Tailwind` · `Bootstrap`
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebeardev&theme=tokyonight&hide_border=true&background=0D0B14&ring=A970FF&fire=C084FC&currStreakLabel=C084FC" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐾 *「 code, coffee & anime 」*
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="420"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebeardev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codebeardev&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting!
-
-![GitHub followers](https://img.shields.io/github/followers/codebeardev?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=codebeardev&style=flat-square&color=A970FF)
 
 </div>
