@@ -2,8 +2,6 @@
 
 <img src="./mascot1.png" width="150"/>
 
-# Victor
-
 ### Full Stack Developer · Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+useful+things+with+code;Turning+ideas+into+reality;Full+Stack+Development+%7C+Web+%7C+UI" />
