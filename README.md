@@ -2,9 +2,9 @@
 
 <img src="./mascot1.png" width="150"/>
 
-# CODEBEARDEV
+# Victor
 
-### Full Stack Developer · Software Engineer · Builder
+### Full Stack Developer · Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+useful+things+with+code;Turning+ideas+into+software;Full+Stack+Development+%7C+Web+%7C+UI" />
 
@@ -22,25 +22,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codebeardev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebeardev&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebeardev&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
