@@ -23,7 +23,6 @@
 
 <div align="center">
 
-<img src="./mascot2.png" width="110"/>
 
 ### `> building the next thing...`
 
